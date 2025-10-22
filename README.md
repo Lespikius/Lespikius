@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lespikius
+- 👋 Hi, I’m @Windowseven
 - 👀 I’m interested in application development 
 - 🌱 I’m currently learning computer science 
 - 💞️ I’m looking to collaborate on application development 
@@ -8,6 +8,6 @@
 - ...
 
 <!---
-Lespikius/Lespikius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Windowseven/Windowseven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
